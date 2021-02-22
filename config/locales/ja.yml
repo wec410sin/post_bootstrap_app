@@ -1,7 +1,7 @@
 ---
 ja:
-  activerecord
-  models:
+  activerecord:
+    models:
       post: メッセージ
     attributes:
       post:
